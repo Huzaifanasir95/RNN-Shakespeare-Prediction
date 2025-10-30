@@ -1,5 +1,10 @@
 # Shakespeare Text Generation with LSTM-RNN
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Complete-success.svg)
+
 Implementation of a word-level LSTM Recurrent Neural Network for next-word prediction and Shakespearean text generation using the Tiny Shakespeare dataset from Hugging Face. This project includes custom word embeddings trained from scratch, comprehensive performance evaluation, and systematic ablation studies.
 
 ---
@@ -515,16 +520,5 @@ If you find this project helpful for learning RNNs or text generation, please co
 
 ---
 
-## 📊 Project Statistics
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Complete-success.svg)
-
----
-
 **Last Updated**: October 2025  
 **Version**: 1.0.0  
-**Course**: Deep Learning / Natural Language Processing  
-**Assignment**: Question 2 - RNN for Next-Word Prediction
